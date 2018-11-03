@@ -1,0 +1,24 @@
+footer{
+    margin-top: 60px;
+    padding: 100px;
+    text-align: center;
+    background: #989595;
+
+}
+.icon-facebook, .icon-twitter, .icon-instagram{
+    color: #101010;
+    font-size: 40px;
+}
+.icon-facebook:hover, .icon-twitter:hover, .icon-instagram:hover{
+    color: #252df7;
+     cursor: pointer;
+}
+.contenido-footer{
+    max-width: 800px;
+    width: 90%;
+    background: #154e80;
+    color: white;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+}
